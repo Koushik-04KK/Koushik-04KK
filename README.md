@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Koushik </h1>
+<h1 align="center">Hi, I'm N Koushik </h1>
 <h3 align="center">Electrical Engineering Student ⚡ | Exploring tech as a whole 🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
