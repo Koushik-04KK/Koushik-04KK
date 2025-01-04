@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koushik N</h1>
 <h3 align="center">🚀 Code adventurer, turning bytes into brilliance! 💻✨</h3>
 
-- 🔭 I’m currently working on **Blood Donation Website**
-
-- 🌱 I’m currently learning **frontend,matlab**
-
 - 📫 How to reach me **koushikn0419@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
